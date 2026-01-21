@@ -1,0 +1,5 @@
+{
+  "name": "Emotional Weather Bottle",
+  "description": "A healing-style mood tracking application that visualizes your emotions as weather patterns inside a glass bottle. Record daily feelings, view climatic trends, and collect achievements.",
+  "requestFramePermissions": []
+}

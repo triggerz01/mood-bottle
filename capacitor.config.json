@@ -1,0 +1,10 @@
+
+{
+  "appId": "com.weatherbottle.app",
+  "appName": "情绪天气瓶",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
